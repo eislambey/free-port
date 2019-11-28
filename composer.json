@@ -1,5 +1,5 @@
 {
-  "name": "islambey/free-port",
+  "name": "eislambey/free-port",
   "description": "Get a random and free TCP port that is ready to use.",
   "type": "library",
   "license": "MIT",
