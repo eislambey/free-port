@@ -1,0 +1,27 @@
+{
+  "name": "islambey/free-port",
+  "description": "Get a random and free TCP port that is ready to use.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "eislambey",
+      "email": "eislambey@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8.4"
+  },
+  "autoload": {
+    "files": [
+      "src/port.php"
+    ]
+  },
+  "scripts": {
+    "test": "phpunit"
+  }
+}
